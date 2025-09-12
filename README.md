@@ -14,7 +14,7 @@ It showcases destinations, travel packages, and hotel stays.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **HTML5**
 - **CSS3 (Flexbox & Grid for layout)**
 
